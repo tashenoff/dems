@@ -1,0 +1,5 @@
+/node_modules
+/src/fonts
+/dist
+.parcel-cache
+.idea
